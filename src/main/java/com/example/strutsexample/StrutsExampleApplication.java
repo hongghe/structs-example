@@ -1,12 +1,12 @@
-package com.example.structsexample;
+package com.example.strutsexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StructsExampleApplication {
+public class StrutsExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StructsExampleApplication.class, args);
+		SpringApplication.run(StrutsExampleApplication.class, args);
 	}
 }
